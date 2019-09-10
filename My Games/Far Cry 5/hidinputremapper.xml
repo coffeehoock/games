@@ -1,0 +1,4 @@
+<Root>
+	<remap name="crouch" key="kb.F1" />
+	<remap name="toggle_camera" key="kb.F3" />
+</Root>
